@@ -1,0 +1,29 @@
+OpenSEMC - The Team
+===================
+
+
+
+<table>
+  <tr>
+    <th>ID</th><th>Name</th><th>Rank</th><th>Maintained Device</th><th>Status</th>
+  </tr>
+  <tr>
+    <td>1</td><td>RaymanFX</td><td>Team Leader; Core Developer</td><td>Xperia S</td><td>Active</td>
+  </tr>
+  <tr>
+    <td>2</td><td>Bruce2728</td><td>Core Developer; VIP</td><td>???</td><td>Active</td>  
+  </tr>
+  <tr>
+    <td>3</td><td>Arakmar</td><td>Core Developer</td><td>Xperia S</td><td>Active</td>  
+  </tr>
+  <tr>
+    <td>4</td><td>Hei1125</td><td>Core Developer</td><td>Xperia Acro S</td><td>Active</td>  
+  </tr>
+</table>
+
+
+
+Join us!
+--------
+We are always searching for new Developers.
+Just send an email to either raymanfx@gmail.com or opensemc@gmail.com.
