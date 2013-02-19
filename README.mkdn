@@ -19,6 +19,9 @@ OpenSEMC - The Team
   <tr>
     <td>4</td><td>Hei1125</td><td>Core Developer</td><td>Xperia Acro S</td><td>Active</td>  
   </tr>
+  <tr>
+    <td>5</td><td>Krabappel2548</td><td>Mostly Kernel but also a bit Core Developer</td><td>Xperia S</td><td>Active</td>  
+  </tr>
 </table>
 
 
