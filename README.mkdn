@@ -28,6 +28,9 @@ OpenSEMC - The Team
   <tr>
     <td>7</td><td>Goodwin</td><td>Core Developer</td><td>Xperia S</td><td>Fuji</td><td>Active</td>  
   </tr>
+  <tr>
+    <td>8</td><td>Koen01</td><td>Chameleon OS Maintainer</td><td>Xperia S</td><td>Fuji</td><td>Active</td>  
+  </tr>
 </table>
 
 
