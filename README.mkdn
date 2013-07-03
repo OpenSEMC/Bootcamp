@@ -17,16 +17,13 @@ OpenSEMC - The Team
     <td>3</td><td>Arakmar</td><td>Core Developer</td><td>Xperia S</td><td>Fuji</td><td>Active</td>  
   </tr>
   <tr>
-    <td>4</td><td>Nhnt11</td><td>Co-Device Maintainer</td><td>Xperia S</td><td>Fuji</td><td>?</td>  
+    <td>4</td><td>Goodwin</td><td>Core Developer</td><td>Xperia S</td><td>Fuji</td><td>Active</td>  
   </tr>
   <tr>
-    <td>5</td><td>Goodwin</td><td>Core Developer</td><td>Xperia S</td><td>Fuji</td><td>Active</td>  
+    <td>5</td><td>Koen01</td><td>AOKP Maintainer</td><td>Xperia S</td><td>Fuji</td><td>Active</td>  
   </tr>
   <tr>
-    <td>6</td><td>Koen01</td><td>AOKP Maintainer</td><td>Xperia S</td><td>Fuji</td><td>Active</td>  
-  </tr>
-  <tr>
-    <td>7</td><td>djnilse</td><td>Co-Device Maintainer</td><td>Xperia S</td><td>Fuji</td><td>Active</td>  
+    <td>6</td><td>djnilse</td><td>Co-Device Maintainer</td><td>Xperia S</td><td>Fuji</td><td>Active</td>  
   </tr>
 </table>
 
